@@ -1,1 +1,2 @@
-let random_number = Maht.Random()
+let random_number = Math.random()
+console.log(random_number);
